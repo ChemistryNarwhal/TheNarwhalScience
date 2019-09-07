@@ -19,7 +19,7 @@ Hi welcome to my website on narwhals.
  
  <img src="https://squidtoons.com/wp-content/uploads/2016/07/narwhal-anatomy-web.png" alt="Narwhal Image"/> 
 
-#DON'T let your garbage harm NARWHALS!!!
+DON'T let your garbage harm NARWHALS!!!
 
 [Awesome](https://github.com/contact)
 
