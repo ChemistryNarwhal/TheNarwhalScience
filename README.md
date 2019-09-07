@@ -1,7 +1,8 @@
 ## SCIENCE!!!!!!
 
-Hi welcome to my website on narwhal (https://github.com/ChemistryNarwhal/TheNarwhalScience/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
+Hi welcome to my website on narwhals. 
+    narwals need our help not our garbage stop wasting there time. 
+(https://github.com/ChemistryNarwhal/TheNarwhalScience/edit/master/README.md)
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
