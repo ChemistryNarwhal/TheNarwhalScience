@@ -1,39 +1,14 @@
 ## SCIENCE!!!!!!
 
 Hi welcome to my website on narwhals. 
-    narwals need our help not our garbage stop wasting there time. 
-(https://github.com/ChemistryNarwhal/TheNarwhalScience/edit/master/README.md)
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+    narwals need our help not our garbage, stop wasting there time. 
+when you place your garbage one the street or outside it alwase makes it way to the ocean wich herts evey ocean animal from kiler whale to little fish.
 
-### Markdown
+fun facts 
+ narwals can live up to 90 tears old
+ the thing on there head that looks like a horn is actualy a tooth 
+ the female narwal dosent have the big tooth only the male 
+there tooth can reach up to 3m (10ft) long !
+Narwals can weigh up to 1,600kg (3,500lb)and hold there bereth for 25min
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-```
-
-<img src="https://squidtoons.com/wp-content/uploads/2016/07/narwhal-anatomy-web.png" alt="Narwhal Image"/>
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ChemistryNarwhal/TheNarwhalScience/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
