@@ -25,8 +25,7 @@ DON'T let your garbage harm NARWHALS!!!
 
 <video class="vjs-tech" id="inlinePlayer_00000169-26f8-dc18-a17b-37f9652c0000_html5_api" tabindex="-1" preload="auto" poster="https://pmdvod.nationalgeographic.com/NG_Video/682/774/tusk-8.jpg" src="https://pmdvod.nationalgeographic.com/NG_Video/682/774/1448118851549_1551137223684_1448120899636_mp4_video_1024x576_1632000_primary_audio_eng_3.mp4"></video>
 
-[Awesome](https://github.com/contact)
-
+[Awesome](https://www.nationalgeographic.com/animals/mammals/n/narwhal/)
 
 
 
