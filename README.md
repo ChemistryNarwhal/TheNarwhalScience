@@ -23,8 +23,9 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-<img src="https://squidtoons.com/wp-content/uploads/2016/07/narwhal-anatomy-web.png" alt="Narwhal Image"/>
 ```
+
+<img src="https://squidtoons.com/wp-content/uploads/2016/07/narwhal-anatomy-web.png" alt="Narwhal Image"/>
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
