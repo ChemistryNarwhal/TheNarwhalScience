@@ -13,8 +13,9 @@ Hi welcome to my website on narwhals.
  - Narwhals can hold there breth for 25min/30min
  - The record dive depth for a narwhale is 1,800m/5,905ft (over one mile)  
  - Narwhales can live up to 90 years old 
- - there tooth is for breaking the ice 
- - they travel in pod (groop of narwals) because the femals need to breth and the male breaks the ice for the femal to breth
+ - There tooth is for breaking the ice 
+ - They travel in pod (groop of narwals) because the femals need to breth and the male breaks the ice for the femal to breth
+ - Some narwhals have 2 teeth
  
  
  <img src="https://squidtoons.com/wp-content/uploads/2016/07/narwhal-anatomy-web.png" alt="Narwhal Image"/> 
