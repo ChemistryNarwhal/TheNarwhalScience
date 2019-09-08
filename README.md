@@ -16,6 +16,7 @@ Hi welcome to my website on narwhals.
  - There tooth is for breaking the ice 
  - They travel in pod (groop of narwals) because the femals need to breth and the male breaks the ice for the femal to breth
  - Some narwhals have 2 teeth
+ - Narwhles are awesome
  
  
  <img src="https://squidtoons.com/wp-content/uploads/2016/07/narwhal-anatomy-web.png" alt="Narwhal Image"/> 
